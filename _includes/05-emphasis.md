@@ -2,5 +2,5 @@
 ### - Art
 ### - painting
 ### - craft making
-### * Reading
-### * Dancing
+### *Reading*
+### __Dancing__
